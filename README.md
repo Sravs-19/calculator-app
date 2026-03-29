@@ -21,10 +21,12 @@ It performs basic arithmetic operations and provides a smooth user experience wi
 📱 Fully responsive design (mobile-friendly)
 🎨 Clean and modern UI
 
+
 ## 🛠️ Tech Stack
 HTML5
 CSS3
 JavaScript (Vanilla JS)
+
 
 ## 📸 Screenshot
 
@@ -39,6 +41,7 @@ calculator-app/
 ├── script.js
 └── images/
   └── screenshot.png
+  
 
 ## 📌 How to Run Locally
 Clone the repository
@@ -46,17 +49,20 @@ git clone https://github.com/Sravs-19/calculator-app.git
 Open the folder
 Open index.html in your browser
 
+
 ## 💡 Future Improvements
 📜 Add calculation history
 🌙 Dark / Light mode toggle
 🎨 Advanced UI animations
 📱 Convert to mobile app
 
+
 ## 👩‍💻 Author
 
 Orsu Sravanthi
 GitHub: https://github.com/Sravs-19
 LinkedIn: https://linkedin.com/in/orsu-sravanthi
+
 
 ## ⭐ Support
 
