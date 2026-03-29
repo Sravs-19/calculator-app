@@ -5,7 +5,7 @@ It performs basic arithmetic operations and provides a smooth user experience wi
 
 ## 🚀 Live Demo
 
-👉 https://sravs-19.github.io/calculator-app
+👉 https://Sravs-19.github.io/calculator-app
 
 ## 📂 GitHub Repository
 
