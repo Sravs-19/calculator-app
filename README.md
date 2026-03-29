@@ -51,7 +51,7 @@ JavaScript
 
 calculator-app/
 
-│
+
 ├── index.html
 
 ├── style.css
