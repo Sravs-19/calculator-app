@@ -1,11 +1,11 @@
-## 🧮 Calculator App
+ 🧮 Calculator App
 
 A modern and responsive Calculator Web Application built using HTML, CSS, and JavaScript.
 It performs basic arithmetic operations and provides a smooth user experience with keyboard support and smart input handling.
 
 ---
 
-## 🚀 Live Demo
+🚀 Live Demo
 
 👉 https://sravs-19.github.io/calculator-app
 
