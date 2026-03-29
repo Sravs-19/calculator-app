@@ -1,14 +1,11 @@
 ## 🧮 Calculator App
-
 A modern and responsive Calculator Web Application built using HTML, CSS, and JavaScript.
 It performs basic arithmetic operations and provides a smooth user experience with keyboard support and smart input handling.
 
 ## 🚀 Live Demo
-
-👉 https://Sravs-19.github.io/calculator-app
+👉 https://sravs-19.github.io/calculator-app
 
 ## 📂 GitHub Repository
-
 👉 https://github.com/Sravs-19/calculator-app
 
 ## ✨ Features
@@ -29,11 +26,9 @@ JavaScript (Vanilla JS)
 
 
 ## 📸 Screenshot
-
 <img width="1919" height="907" alt="screenshot" src="https://github.com/user-attachments/assets/ee9b0952-7bc7-4b8c-9bd1-044fe33494b4" />
 
 ## 📁 Folder Structure
-
 calculator-app/
 │
 ├── index.html
@@ -58,12 +53,10 @@ Open index.html in your browser
 
 
 ## 👩‍💻 Author
-
 Orsu Sravanthi
 GitHub: https://github.com/Sravs-19
 LinkedIn: https://linkedin.com/in/orsu-sravanthi
 
 
 ## ⭐ Support
-
 If you like this project, give it a ⭐ on GitHub!
