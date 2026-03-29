@@ -1,23 +1,23 @@
-🧮 Calculator App
+## 🧮 Calculator App
 
 A modern and responsive Calculator Web Application built using HTML, CSS, and JavaScript.
 It performs basic arithmetic operations and provides a smooth user experience with keyboard support and smart input handling.
 
 ---
 
-🚀 Live Demo
+## 🚀 Live Demo
 
 👉 https://sravs-19.github.io/calculator-app
 
 ---
 
-📂 GitHub Repository
+## 📂 GitHub Repository
 
 👉 https://github.com/Sravs-19/calculator-app
 
 ---
 
-✨ Features
+## ✨ Features
 
 ➕ Basic operations (+, -, *, /, %)
 🧠 Smart input validation (prevents multiple operators)
@@ -30,7 +30,7 @@ It performs basic arithmetic operations and provides a smooth user experience wi
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 HTML5
 CSS3
@@ -38,13 +38,13 @@ JavaScript (Vanilla JS)
 
 ---
 
-📸 Screenshot
+## 📸 Screenshot
 
 <img width="1919" height="907" alt="screenshot" src="https://github.com/user-attachments/assets/e86b6a6b-0d1e-45e0-99d4-83c222973d97" />
 
 ---
 
-📁 Folder Structure
+## 📁 Folder Structure
 
 calculator-app/
 │
@@ -56,7 +56,7 @@ calculator-app/
 
 ---
 
-📌 How to Run Locally
+## 📌 How to Run Locally
 
 Clone the repository
 git clone https://github.com/Sravs-19/calculator-app.git
@@ -65,7 +65,7 @@ Open index.html in your browser
 
 ---
 
-💡 Future Improvements
+## 💡 Future Improvements
 
 📜 Add calculation history
 🌙 Dark / Light mode toggle
@@ -74,7 +74,7 @@ Open index.html in your browser
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Orsu Sravanthi
 GitHub: https://github.com/Sravs-19
@@ -82,6 +82,6 @@ LinkedIn: https://linkedin.com/in/orsu-sravanthi
 
 ---
 
-⭐ Support
+## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
